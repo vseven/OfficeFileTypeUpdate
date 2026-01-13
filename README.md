@@ -1,5 +1,5 @@
 # OfficeFileTypeUpdate
-Contains a couple macro/vba enabled documents to convert old Office file formats to newer formats (*.doc -> *.docx, etc).  Each file has quick instrucitons within it when you open them.  If you have a lot of files you will need to have a 64-bit version of Office installed, especially for Visio.
+Contains a couple macro/vba enabled documents to convert old Office file formats to newer formats (*.doc -> *.docx, etc).  Each file has quick instructions within it when you open them.  If you have a lot of files you will need to have a 64-bit version of Office installed, especially for Visio.
 
 Instructions:
 * Open the file
